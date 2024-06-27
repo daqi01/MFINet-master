@@ -17,8 +17,8 @@
 #### Train:
 python train.py
 
-We will provide more details of the code later.
-
 ## Acknowledgements
 
 Thanks for the open source [code](https://github.com/vinits5/pcrnet_pytorch) for helping me to train the Point Cloud Registration Network successfully.
+
+We will provide more code details in the future.
